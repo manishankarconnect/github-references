@@ -1,2 +1,2 @@
-# github-references
+# GIT Hub References
 References for projects.
