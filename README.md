@@ -5,3 +5,5 @@ References for projects.
 
 * **Books**:
   * [**Professional Program Development**](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html) 
+  * [**HTML**](https://learn.shayhowe.com/html-css/)
+  * [**CSS**](https://cssanimation.rocks/css-animation-101/)
