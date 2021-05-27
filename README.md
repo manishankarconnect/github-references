@@ -1,5 +1,5 @@
 # GIT Hub References
-URL References for projects
+References for required projects
 
 * [**Emoji Cheat Sheet**](https://github.com/coder-cell/github-references/blob/main/Emoji%20Cheat%20Sheet.md) 
 
